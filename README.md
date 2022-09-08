@@ -1,6 +1,6 @@
-## Minha Carteira Ltda
+## PyMoney
 
 ### Projeto realizado em Python
 #### by asimov academy
 
-O objetivo é __estudar__ a estrutura realizando modificações para *fins* de **estudos*.
+O objetivo é __estudar__ a estrutura realizando modificações para fins de estudos.
